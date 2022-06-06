@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312299486905",
+    "project_id": "linkup-marriage",
+    "storage_bucket": "linkup-marriage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312299486905:android:1c5eb7dd42fb168ac9e568",
+        "android_client_info": {
+          "package_name": "com.example.linkup_marriage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312299486905-i1g5dap3i7gemsqrmt5r2au6f2h4acnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURkHhuPWwromkBYmTKCjI3AD6Boiqqt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312299486905-i1g5dap3i7gemsqrmt5r2au6f2h4acnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
